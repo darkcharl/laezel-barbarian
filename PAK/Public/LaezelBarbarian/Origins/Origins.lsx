@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="8" build="600"/>
+    <region id="Origins">
+        <node id="root">
+            <children>
+                <node id="Origin">
+                    <attribute id="AppearanceLocked" type="bool" value="true"/>
+                    <attribute id="AvailableInCharacterCreation" type="uint8" value="0"/>
+                    <attribute id="BackgroundUUID" type="guid" value="1252a86e-9baa-4ccb-b8ce-2378ae006f0b"/>
+                    <attribute id="ClassEquipmentOverride" type="FixedString" value="EQ_Laezel"/>
+                    <attribute id="ClassUUID" type="guid" value="d8cadb42-0ff9-4049-afaf-e5d78d06a399"/>
+                    <attribute id="Description" type="FixedString" value="Gustav_Origins_New_Stat_2_Description"/>
+                    <attribute id="DisplayName" type="FixedString" value="Gustav_Origins_New_Stat_2_DisplayName"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="GlobalTemplate" type="guid" value="58a69333-40bf-8358-1d17-fff240d7fb12"/>
+                    <attribute id="Name" type="FixedString" value="Laezel"/>
+                    <attribute id="Passives" type="LSString" value="DeathSavingThrows"/>
+                    <attribute id="RaceUUID" type="guid" value="bdf9b779-002c-4077-b377-8ea7c1faa795"/>
+                    <attribute id="SubClassUUID" type="guid" value="32eee7d8-1b2f-4de5-b9ee-78fbd286c6ef"/>
+                    <attribute id="UUID" type="guid" value="fb3bc4c3-49eb-4944-b714-d0cb357bb635"/>
+                    <attribute id="Unique" type="bool" value="true"/>
+                    <attribute id="VoiceTableUUID" type="guid" value="46069209-0879-403f-85c7-fd23aab0a56f"/>
+                    <children>
+                        <node id="AppearanceTags">
+                            <attribute id="Object" type="guid" value="3b07eac7-fab3-4120-a46c-51dbb3ec500b"/>
+                        </node>
+                        <node id="ReallyTags">
+                            <attribute id="Object" type="guid" value="b5682d1d-c395-489c-9675-1f9b0c328ea5"/>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
